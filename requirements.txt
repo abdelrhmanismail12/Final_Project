@@ -1,7 +1,8 @@
-category_encoders==2.9.0
+category_encoders
 joblib
-numpy==1.24.3
-pandas==2.3.3
-plotly==5.24.1
-streamlit==1.37.1
+numpy
+pandas
+plotly
+streamlit
+
 
